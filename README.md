@@ -5,7 +5,7 @@ My personal resume, written in LaTeX.
 ## Build
 
 ```sh
-make resume.tex
+make
 ```
 
 ## Clean
