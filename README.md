@@ -1,6 +1,6 @@
 # Resume
 
-My personal resume, written in LaTeX.
+My personal resume, written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
 ## Build
 
