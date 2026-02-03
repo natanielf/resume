@@ -13,7 +13,3 @@ make
 ```sh
 make clean
 ```
-
-## Acknowledgements
-
-- Resume template provided by [Ponthea Zahraii](https://github.com/pontheazahraii)
